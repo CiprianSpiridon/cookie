@@ -1,4 +1,5 @@
 # Sabeur Is Always Wrong, Cip Is always RIGHT script
+![screenshot](./public/assets/sabeur.gif)
 
 Copy example.env to .env
 
